@@ -1,2 +1,4 @@
-<?php
-echo 'Welcome TECH QUEST!';
+
+サイドバー開閉のショートカットキー(windows)
+
+Ctrl + B 
